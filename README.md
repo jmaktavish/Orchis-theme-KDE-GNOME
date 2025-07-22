@@ -13,8 +13,8 @@ Based on nana-4 -- [materia-theme](https://github.com/nana-4/materia-theme)
 Run the following commands in the terminal:
 
 ```sh
-chmod +x update.sh install.sh
-sudo ./update.sh
+chmod +x requirements.sh install.sh
+sudo ./requirements.sh
 ./install.sh
 ```
 
