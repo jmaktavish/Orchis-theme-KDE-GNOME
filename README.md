@@ -6,17 +6,6 @@ Based on nana-4 -- [materia-theme](https://github.com/nana-4/materia-theme)
 
 ![screenshot](images/screenshot.png?raw=true)
 
-## Requirements
-
-- GTK `>=3.20`
-- `gnome-themes-extra` (or `gnome-themes-standard`)
-- Murrine engine — The package name depends on the distro.
-  - `gtk-engine-murrine` on Arch Linux
-  - `gtk-murrine-engine` on Fedora
-  - `gtk2-engine-murrine` on openSUSE
-  - `gtk2-engines-murrine` on Debian, Ubuntu, etc.
-- `sassc` — build dependency
-
 ## Installation
 
 ### Manual Installation
@@ -28,6 +17,17 @@ chmod +x update.sh install.sh
 sudo ./update.sh
 ./install.sh
 ```
+
+## Requirements
+
+- GTK `>=3.20`
+- `gnome-themes-extra` (or `gnome-themes-standard`)
+- Murrine engine — The package name depends on the distro.
+  - `gtk-engine-murrine` on Arch Linux
+  - `gtk-murrine-engine` on Fedora
+  - `gtk2-engine-murrine` on openSUSE
+  - `gtk2-engines-murrine` on Debian, Ubuntu, etc.
+- `sassc` — build dependency
 
 ## Donate
 
